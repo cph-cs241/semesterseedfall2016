@@ -5,7 +5,8 @@
  */
 package security;
 
-import entity.User;
+import entity.Person;
+import entity.Roles;
 import java.util.List;
 
 /**

@@ -1,5 +1,6 @@
 package security;
 
+import entity.Roles;
 import java.util.List;
 
 public interface IUser {
